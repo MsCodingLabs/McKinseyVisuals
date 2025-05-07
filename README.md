@@ -9,4 +9,4 @@
 ## Screenshot
 ![RadialesBalkendiagram](https://github.com/MsCodingLabs/McKinseyVisuals/blob/main/RadialesBalkendiagram.png)
 ![%C3%9CberlappendesBalkendiagram](https://github.com/MsCodingLabs/McKinseyVisuals/blob/main/%C3%9CberlappendesBalkendiagram.png)
-![GestapeltesBalkendiagram]([https://github.com/MsCodingLabs/McKinseyVisuals/blob/main/RadialesBalkendiagram.png](https://github.com/MsCodingLabs/McKinseyVisuals/blob/main/GestapeltesBalkendiagram.png))
+![GestapeltesBalkendiagram](https://github.com/MsCodingLabs/McKinseyVisuals/blob/main/GestapeltesBalkendiagram.png)
