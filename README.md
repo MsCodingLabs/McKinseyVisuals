@@ -3,3 +3,9 @@
 - **Radiales Balkendiagramm** – auffällig, modern, ideal für Anteile  
 - **Überlappendes Balkendiagramm** – zeigt auf einen Blick: Plan vs. Realität  
 - **Gestapeltes Balkendiagramm** – macht sichtbar, wie sich Demografie über Hierarchiestufen verändert
+
+---
+## Screenshot
+
+*Datensatz:*
+![ExcelDatensatzKaggle](https://github.com/MsCodingLabs/Kundenabwanderung/blob/main/ExcelDatensatzKaggle.png?raw=true)
